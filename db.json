@@ -1,0 +1,49 @@
+{
+    "outlets" : [
+        {
+            "id" : 1,
+            "category": "Cebu City",
+            "name": "Jollibee SM Consolacion",
+            "address": "National Highway, Consolacion, Cebu",
+            "tel": "(032) 260-0022",
+            "lat": 10.3799492,
+            "lng": 123.963994
+        },
+        {
+            "id": 2,
+            "category": "Cebu City",
+            "name": "Jollibee Robinsons Cybergate",
+            "address": "Ground Flr. Robinsons Cybergate, Cebu City",
+            "tel": "(032) 505-5758",
+            "lat": 10.31018,
+            "lng": 123.891962
+        },
+        {
+            "id": 3,
+            "category": "Cebu City",
+            "name": "Jollibee 138 Mall",
+            "address": "Ground Floor 138 Mall Colon St., Cebu City",
+            "tel": "(032) 505-7908",
+            "lat": 10.2975582,
+            "lng": 123.9006525
+        },
+        {
+            "id": 4,
+            "category": "Cebu City",
+            "name": "Jollibee Boulevard Capitol",
+            "address": "Boulevard Arcade, Osmena Blvd., Cebu City",
+            "tel": "(032) 254-5400 / 254-5300",
+            "lat": 10.3151357,
+            "lng": 123.8914409
+        },
+        {
+            "id": 5,
+            "category": "Cebu City",
+            "name": "Jollibee Bulacao",
+            "address": "Cebu South Road, Bulacao Cebu City",
+            "tel": "(032) 273-1199",
+            "lat": 10.274109,
+            "lng": 123.849358
+        }
+    ]
+}
